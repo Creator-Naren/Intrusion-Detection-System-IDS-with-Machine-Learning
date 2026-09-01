@@ -1,0 +1,2 @@
+duration,protocol,src_bytes,dst_bytes,packets,flags,total_bytes,ratio_src_dst,pkt_per_sec,mean_pkt_size,is_tcp,is_udp,iso_score,iso_pred,rec_err
+5.0,6,800000,1000,400,18,801000,800.0,80.0,2002.5,1.0,0.0,-0.074790049172613,-1,0.0
